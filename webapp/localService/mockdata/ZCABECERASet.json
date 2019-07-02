@@ -1,0 +1,151 @@
+[{
+	"IErdat": "/Date(967840302000)/",
+	"Vbeln": "Vbeln 1",
+	"Netwr": 9.85,
+	"Bstnk": "Bstnk 1",
+	"Ernam": "Ernam 1",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%201')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%201')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1114288302000)/",
+	"Vbeln": "Vbeln 2",
+	"Netwr": 416.31,
+	"Bstnk": "Bstnk 2",
+	"Ernam": "Ernam 2",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%202')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%202')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1264192302000)/",
+	"Vbeln": "Vbeln 3",
+	"Netwr": 6671.92,
+	"Bstnk": "Bstnk 3",
+	"Ernam": "Ernam 3",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%203')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%203')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1509222702000)/",
+	"Vbeln": "Vbeln 4",
+	"Netwr": 2613.6,
+	"Bstnk": "Bstnk 4",
+	"Ernam": "Ernam 4",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%204')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%204')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1149193902000)/",
+	"Vbeln": "Vbeln 5",
+	"Netwr": 7960.43,
+	"Bstnk": "Bstnk 5",
+	"Ernam": "Ernam 5",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%205')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%205')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1224707502000)/",
+	"Vbeln": "Vbeln 6",
+	"Netwr": 2584.86,
+	"Bstnk": "Bstnk 6",
+	"Ernam": "Ernam 6",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%206')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%206')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1190147502000)/",
+	"Vbeln": "Vbeln 7",
+	"Netwr": 5101.49,
+	"Bstnk": "Bstnk 7",
+	"Ernam": "Ernam 7",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%207')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%207')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1157747502000)/",
+	"Vbeln": "Vbeln 8",
+	"Netwr": 7638.68,
+	"Bstnk": "Bstnk 8",
+	"Ernam": "Ernam 8",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%208')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%208')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1139257902000)/",
+	"Vbeln": "Vbeln 9",
+	"Netwr": 100.85,
+	"Bstnk": "Bstnk 9",
+	"Ernam": "Ernam 9",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%209')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%209')/ZCABDETURL"
+		}
+	}
+}, {
+	"IErdat": "/Date(1405369902000)/",
+	"Vbeln": "Vbeln 10",
+	"Netwr": 8688.55,
+	"Bstnk": "Bstnk 10",
+	"Ernam": "Ernam 10",
+	"__metadata": {
+		"uri": "ZCABECERASet('Vbeln%2010')",
+		"type": "ZPEDIDOSPACHO_SRV.ZCABECERA"
+	},
+	"ZCABDETURL": {
+		"__deferred": {
+			"uri": "ZCABECERASet('Vbeln%2010')/ZCABDETURL"
+		}
+	}
+}]
