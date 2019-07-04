@@ -1,9 +1,54 @@
-<mvc:View controllerName="ZNMSP.ZTEST_PEDIDOS.controller.App" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="ZNMSP.ZTEST_PEDIDOS.controller.App" displayBlock="true">
 	<Shell id="shell">
 		<App id="app">
 			<pages>
 				<Page id="page" title="{i18n>title}">
-					<content></content>
+					<content>
+						<!--Obteniendo datos desde el Mockdata sin controlador-->
+<!--					    <Table noDataText="Drop column list items here and columns in the area above" id="table0"
+					    	items="{ 
+					    	path: '/ZCABECERASet'
+					    	}"
+					    	>-->
+					    <Table id="table0"
+					    items="{ path: '/PedidosCabecera' }"
+					    	>					    	
+					        <columns>
+					            <Column id="column0">
+					                <header>
+					                    <Label text="Vbeln" id="label0"/>
+					                </header>
+					            </Column>
+					            <Column id="column1">
+					                <header>
+					                    <Label text="Netwr" id="label1"/>
+					                </header>
+					            </Column>
+					            <Column id="column2">
+					                <header>
+					                    <Label text="Bstnk" id="label2"/>
+					                </header>
+					            </Column>
+					             <Column id="column3">
+					                <header>
+					                    <Label text="Ernam" id="label3"/>
+					                </header>
+					            </Column>
+					            
+					          </columns>
+					          
+					            <items>
+					            <ColumnListItem type="Active" id="item0"  >
+					                <cells>
+					                    <Text text="{Vbeln}" id="text2"/>
+					                    <Text text="{Netwr}" id="text3"/>
+					                    <Text text="{Bstnk}" id="text4"/>
+					                    <Text text="{Ernam}" id="text5"/>
+					                </cells>
+					            </ColumnListItem>
+					        </items>
+					   </Table>
+					</content>
 				</Page>
 			</pages>
 		</App>

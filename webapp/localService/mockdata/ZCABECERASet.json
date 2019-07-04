@@ -1,4 +1,4 @@
-[{
+{ "PedidosCabecera" :[{
 	"IErdat": "/Date(967840302000)/",
 	"Vbeln": "Vbeln 1",
 	"Netwr": 9.85,
@@ -149,3 +149,4 @@
 		}
 	}
 }]
+}
